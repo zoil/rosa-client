@@ -1,1 +1,1 @@
-# ross-client
+# Realtime Object Store Adapter - Client
