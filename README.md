@@ -1,1 +1,5 @@
-# Realtime Object Store Adapter - Client
+## Installation
+
+```
+npm install --save rosa-client
+```
